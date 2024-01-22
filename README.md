@@ -29,7 +29,8 @@
 </div>
 
 <h2>Some Stats:</h2>
-<div>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RiyaTorgal&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak" width="500"/></a><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyaTorgal&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" width="400"/>
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RiyaTorgal&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak" width="450"/></a><br><br>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=RiyaTorgal&show_icons=true&theme=dark&rank_icon=github&hide_border=true" width="450"/></a><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyaTorgal&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" width="300"/>
 </div>
