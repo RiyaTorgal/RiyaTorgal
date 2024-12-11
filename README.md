@@ -34,9 +34,8 @@
         <img alt="Static Badge" src="https://img.shields.io/badge/FIGMA-purple?style=for-the-badge&logo=figma&logoColor=white"> &nbsp;
 </div>
 
-<h2>Some Stats:</h2>
+<h2>📊 Some Stats:</h2>
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RiyaTorgal&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak" width="450"/></a><br><br>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=RiyaTorgal&show_icons=true&theme=dark&rank_icon=github&hide_border=true" width="450"/></a><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyaTorgal&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" width="300"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=RiyaTorgal&show_icons=true&theme=github_dark_dimmed&rank_icon=github&hide_border=false" width="500"/></a><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyaTorgal&layout=compact&theme=github_dark_dimmed&hide_border=false" alt="Top Languages" width="350"/>
 </div>
