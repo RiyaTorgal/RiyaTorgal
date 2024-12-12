@@ -36,7 +36,23 @@
 
 <h2>📊 Some Stats:</h2>
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=RiyaTorgal&theme=github-dark-dimmed" alt="Github Stats" width="350" /><br><br>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=RiyaTorgal&show_icons=true&theme=github_dark_dimmed&rank_icon=github&hide_border=false" width="500"/></a><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyaTorgal&layout=compact&theme=github_dark_dimmed&hide_border=false" alt="Top Languages" width="350"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=RiyaTorgal&count_private=true&theme=react&border_radius=10">
+    <img alt="github-streak-stats" src="https://streak-stats.demolab.com/?user=RiyaTorgal&count_private=true&theme=react&border_radius=10">
+  </picture>
+  <br><br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=RiyaTorgal&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10">
+    <img alt="github-streak-stats" src="https://github-readme-stats.vercel.app/api?username=RiyaTorgal&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10">
+  </picture>
+  <br><br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyaTorgal&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5">
+    <img alt="github-streak-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyaTorgal&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5">
+  </picture>
+  <br><br>
+<!--   <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://chesscom-profile-svg.vercel.app/stats?username=daftbub1495&theme=dark">
+  <img alt="chess-stats" src="https://chesscom-profile-svg.vercel.app/stats?username=daftbub1495&theme=graywhite">
+</picture> -->
 </div>
