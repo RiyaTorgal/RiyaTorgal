@@ -36,6 +36,7 @@
 
 <h2>📊 Some Stats:</h2>
 <div align="center">
+  <img src="https://streak-stats.demolab.com/?user=RiyaTorgal&theme=github-dark-dimmed" alt="Github Stats" width="350" /><br><br>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=RiyaTorgal&show_icons=true&theme=github_dark_dimmed&rank_icon=github&hide_border=false" width="500"/></a><br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyaTorgal&layout=compact&theme=github_dark_dimmed&hide_border=false" alt="Top Languages" width="350"/>
 </div>
