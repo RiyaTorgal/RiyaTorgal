@@ -6,6 +6,8 @@
   <p>I am a budding coder with a creative mind, passionate about 3D design, rendering, and bringing ideas to life. I enjoy building projects and crafting animations side by side. Each project is an opportunity to blend creativity and technical skill, making the process as exciting as the outcome.</p>
 </div>
 
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/RiyaTorgal/badge.svg)](https://hub.xerj.org/contributors/RiyaTorgal)
+
 <h2>👩‍💻 Skills:</h2>
 <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> &nbsp;
